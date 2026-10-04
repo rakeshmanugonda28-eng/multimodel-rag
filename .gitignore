@@ -1,0 +1,11 @@
+# secrets - never upload your API key
+.streamlit/secrets.toml
+.env
+
+# generated folders
+data/
+extracted_images/
+text_db/
+image_db/
+__pycache__/
+.ipynb_checkpoints/
