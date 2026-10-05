@@ -96,14 +96,6 @@ streamlit run streamlit_app.py
 └── .gitignore
 ```
 
----
-
-## ⚠️ Limitations
-
-- Retrieves the top chunks only, so very broad questions ("summarise everything") may miss details.
-- Small or blurry numbers inside charts can be misread.
-- Scanned PDFs (images of text) are not OCR'd.
-
 ## 🔮 Future Improvements
 
 - OCR for scanned PDFs
