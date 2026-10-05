@@ -91,7 +91,7 @@ streamlit run streamlit_app.py
 
 ```
 ├── streamlit_app.py              # Streamlit web app (full RAG pipeline + UI)
-├── medical_multimodal_rag.ipynb  # notebook used to build and test the pipeline
+├── multimodal_rag.ipynb  # notebook used to build and test the pipeline
 ├── requirements.txt
 └── .gitignore
 ```
