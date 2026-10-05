@@ -2,7 +2,7 @@
 
 Ask questions about any PDF and get answers built from its **text, images and charts/graphs**.
 
-🔗 **Live demo:** _add your Streamlit link here_
+🔗 **Live demo:** https://pdf-lens-aemeo8imdlf2nxkqpj6p83.streamlit.app/
 
 ---
 
